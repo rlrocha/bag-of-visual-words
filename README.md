@@ -8,7 +8,7 @@ The [notebook](notebooks/bovw-classification.ipynb) is used to investigate image
 
 ---
 Useful links:
-- BoVW classification (blog post): [Medium]().
+- BoVW classification (blog post): [Medium](https://rlrocha.medium.com/bag-of-visual-words-applied-to-image-classification-64a7de0b6369).
 - BoVW classification App: [Hugging Face](https://huggingface.co/spaces/rlrocha/bovw-classification).
 - ELM GitHub repository: [GitHub](https://github.com/rlrocha/elm).
 - ELM to time series forecasting (blog post): [Medium](https://rlrocha.medium.com/time-series-forecasting-through-extreme-learning-machine-b6fa5917ebbb).
